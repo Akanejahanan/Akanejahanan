@@ -1,10 +1,226 @@
-- 😏 I'm selamat datang @name
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
-<!---
-Akanejahanan/Akanejahanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tatsuya
+
+*GROUP*
+• .absen
+• .add
+• .afk
+• .antibot
+• .antidelete
+• .antilink
+• .antilinknokick
+• .antiluar
+• .antiviewonce
+• .antiwame
+• .antiwamenokick
+• .cekabsen
+• .cekidgroup
+• .cekwarn
+• .delete
+• .deleteabsen
+• .delwarn
+• .demote
+• .demotedetector
+• .descgc
+• .groupadmin
+• .groupinfo
+• .groupsetting
+• .hidetag
+• .kick
+• .leavegc
+• .left
+• .levelling
+• .linkgc
+• .revokelink
+• .listwarn
+• .mulaiabsen
+• .mute
+• .promote
+• .promotedetector
+• .refreshgroup
+• .resetwarn
+• .setdescgc
+• .setnamegc
+• .setppgc
+• .setppgcpanjang
+• .setwarn
+• .sider
+• .tagall
+• .totag
+• .vote
+• .warn
+• .welcome
+
+*OWNER*
+• .addbalance
+• .addlevel
+• .addlimit
+• .addrespon
+• .addxp
+• .anticall
+• .anticallnoblock
+• .antideletepc
+• .autoread
+• .autotype
+• .ban
+• .block
+• .broadcast
+• .bccancel
+• .bcconfirm
+• .bcgroup
+• .bcgchidetag
+• .bchidetag
+• .bcpc
+• .bcstat
+• .buttonmode
+• .chatgroup
+• .clearchat
+• .createbutton
+• .createlist
+• .createredeem
+• .createlist
+• .createthumbnail
+• .delbalance
+• .dellevel
+• .dellimit
+• .deleteredeem
+• .delrespon
+• .delxp
+• .golink
+• .grabcontact
+• .inforedeem
+• .inviteme
+• .join
+• .leaveall
+• .leavegcbyid
+• .levellingpc
+• .listrespon
+• .mutebc
+• .mutebyid
+• .mycontacts
+• .onlygroup
+• .onlyindo
+• .onlyprem
+• .pconlyprem
+• .public
+• .publicbyid
+• .react
+• .resetanonymous
+• .resetbalance
+• .resetlevel
+• .resetxp
+• .resetlimit
+• .resetpremium
+• .resetresponsee
+• .self
+• .selfbyid
+• .setbio
+• .setdefaultweltype
+• .setname
+• .setopenaikey
+• .setpp
+• .setpppanjang
+• .unban
+• .unblock
+• .unreact
+• .upres
+
+*TOOLS*
+• .cekplatform
+• .ehex
+• .dhex
+• .ebase64
+• .dbase64
+• .enc
+• .dec
+• .fakereply
+• .kirim
+• .poll
+• .qrcode
+• .readmore
+• .readviewonce
+• .shortlink
+• .myemail
+• .getemail
+• .translate
+• .halah
+• .hilih
+• .huluh
+• .heleh
+• .holoh
+
+*GAME*
+• .asahotak
+• .buylimit
+• .caklontong
+• .dare
+• .family100
+• .hint
+• .math
+• .nyerah
+• .redeem
+• .siapakahaku
+• .sloth
+• .suit
+• .susunkalimat
+• .susunkata
+• .susunlirik
+• .tebakbendera
+• .tebakbom
+• .tebakkata
+• .tekateki
+• .tfbalance
+• .truth
+
+*RANDOM*
+• .alay
+• .apakah
+• .faktaunik
+• .jadian
+• .kapankah
+• .katabijak
+• .pantun
+• .puisi
+• .randomanime
+• .randomtag
+• .rate
+• .siapakah
+
+*SEARCH*
+• .artinama
+• .brainly
+• .google
+• .ipchecker
+• .jadwalshalat
+• .lirik
+
+*STICKER*
+• .sticker
+• .stickercircle
+• .stickerwm
+• .takesticker
+
+*INFO*
+• .cekpremium
+• .infocovid
+• .infogempa
+• .infounser
+• .kodebahasa
+• .leavenosewa
+• .limit
+• .balance
+• .listban
+• .listblock
+• .listgroup
+• .listgroupnosewa
+• .listonline
+• .listpremium
+• .profile
+• .status
+• .topglobal
+• .toplocal
+
+*GENERAL*
+• .infobot
+• .owner
+• .ping
+• .runtime
